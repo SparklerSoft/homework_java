@@ -1,7 +1,6 @@
-public class Homework1 {
+public class HomeWork1 {
 
     public static void main(String[] args){
-
 
     System.out.println("/\'\"Work was created/by Serg_Lapidus\"\'\\");
 
@@ -29,9 +28,9 @@ public class Homework1 {
     char R = (char) 04234122D;
     System.out.println(R);
 
-    System.out.println("\n"); // Добавить и распечатать пустую строку
+    System.out.println("\n"); // Add and print an empty string
 
-    System.out.println("Check the new line\n"); // Проверка вставки пустой строки
+    System.out.println("Check the new line\n"); // Checking the empty string
 
 
 
